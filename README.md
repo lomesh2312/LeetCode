@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/lomesh2312/LeetCode/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/lomesh2312/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
