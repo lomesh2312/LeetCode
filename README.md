@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/lomesh2312/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/lomesh2312/LeetCode/tree/master/0039-combination-sum) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lomesh2312/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lomesh2312/LeetCode/tree/master/0007-reverse-integer) |
+## Matrix
+|  |
+| ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lomesh2312/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
