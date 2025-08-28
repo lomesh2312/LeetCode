@@ -8,10 +8,12 @@ class Solution:
                 res.append(curr[:])
                 return
 
-            back(idx+1)
+            
+            
             curr.append(nums[idx])
             back(idx+1)
             curr.pop()
+            back(idx+1)
 
         back(0)
         return res
