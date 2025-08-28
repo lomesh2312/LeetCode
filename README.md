@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/lomesh2312/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/lomesh2312/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/lomesh2312/LeetCode/tree/master/0078-subsets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lomesh2312/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lomesh2312/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/lomesh2312/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/lomesh2312/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/lomesh2312/LeetCode/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/lomesh2312/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/lomesh2312/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
