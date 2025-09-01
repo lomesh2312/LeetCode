@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/lomesh2312/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/lomesh2312/LeetCode/tree/master/0078-subsets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lomesh2312/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1917-maximum-average-pass-ratio](https://github.com/lomesh2312/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lomesh2312/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/lomesh2312/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/lomesh2312/LeetCode/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/lomesh2312/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/lomesh2312/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
