@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/lomesh2312/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/lomesh2312/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/lomesh2312/LeetCode/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/lomesh2312/LeetCode/tree/master/0135-candy) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lomesh2312/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/lomesh2312/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lomesh2312/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/lomesh2312/LeetCode/tree/master/0135-candy) |
 | [1917-maximum-average-pass-ratio](https://github.com/lomesh2312/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
 |  |
