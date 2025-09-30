@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lomesh2312/LeetCode/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/lomesh2312/LeetCode/tree/master/0062-unique-paths) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/lomesh2312/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Matrix
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/lomesh2312/LeetCode/tree/master/0062-unique-paths) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lomesh2312/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lomesh2312/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/lomesh2312/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lomesh2312/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lomesh2312/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
