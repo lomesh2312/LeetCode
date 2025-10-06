@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/lomesh2312/LeetCode/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/lomesh2312/LeetCode/tree/master/0135-candy) |
+| [0300-longest-increasing-subsequence](https://github.com/lomesh2312/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lomesh2312/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lomesh2312/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/lomesh2312/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lomesh2312/LeetCode/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/lomesh2312/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/lomesh2312/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/lomesh2312/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/lomesh2312/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/lomesh2312/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/lomesh2312/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lomesh2312/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
