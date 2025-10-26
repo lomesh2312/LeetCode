@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lomesh2312/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/lomesh2312/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/lomesh2312/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/lomesh2312/LeetCode/tree/master/0039-combination-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lomesh2312/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0516-longest-palindromic-subsequence](https://github.com/lomesh2312/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/lomesh2312/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Recursion
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lomesh2312/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lomesh2312/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
