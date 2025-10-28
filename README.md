@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lomesh2312/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/lomesh2312/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/lomesh2312/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/lomesh2312/LeetCode/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/lomesh2312/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/lomesh2312/LeetCode/tree/master/0078-subsets) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/lomesh2312/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/lomesh2312/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/lomesh2312/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/lomesh2312/LeetCode/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lomesh2312/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Math
