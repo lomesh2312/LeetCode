@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/lomesh2312/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/lomesh2312/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lomesh2312/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2481-strictly-palindromic-number](https://github.com/lomesh2312/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/lomesh2312/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Matrix
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/lomesh2312/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2481-strictly-palindromic-number](https://github.com/lomesh2312/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/lomesh2312/LeetCode/tree/master/0322-coin-change) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/lomesh2312/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
