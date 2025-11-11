@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/lomesh2312/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lomesh2312/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lomesh2312/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1706-min-cost-to-connect-all-points](https://github.com/lomesh2312/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1917-maximum-average-pass-ratio](https://github.com/lomesh2312/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lomesh2312/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lomesh2312/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -172,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/lomesh2312/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Union Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/lomesh2312/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/lomesh2312/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/lomesh2312/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
