@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/lomesh2312/LeetCode/tree/master/0322-coin-change) |
 ## Brainteaser
 |  |
@@ -185,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/lomesh2312/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
