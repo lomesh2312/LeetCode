@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/lomesh2312/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lomesh2312/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/lomesh2312/LeetCode/tree/master/0322-coin-change) |
 ## Brainteaser
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/lomesh2312/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lomesh2312/LeetCode/tree/master/0210-course-schedule-ii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/lomesh2312/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/lomesh2312/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lomesh2312/LeetCode/tree/master/0210-course-schedule-ii) |
 ## Binary Tree
 |  |
@@ -206,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/lomesh2312/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lomesh2312/LeetCode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
