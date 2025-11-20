@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lomesh2312/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/lomesh2312/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/lomesh2312/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lomesh2312/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lomesh2312/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/lomesh2312/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/lomesh2312/LeetCode/tree/master/0058-length-of-last-word) |
 | [0516-longest-palindromic-subsequence](https://github.com/lomesh2312/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lomesh2312/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0917-boats-to-save-people](https://github.com/lomesh2312/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2481-strictly-palindromic-number](https://github.com/lomesh2312/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Enumeration
